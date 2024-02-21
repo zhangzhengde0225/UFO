@@ -9,6 +9,8 @@ import yaml
 from art import text2art
 from pywinauto.uia_defines import NoPatternInterfaceError
 
+print('pass')
+
 from ..config.config import load_config
 from ..llm import llm_call
 from ..llm import prompt as prompter

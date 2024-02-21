@@ -1,3 +1,6 @@
+/logs/*
+/ufo/config/config.yaml
+
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
 /test/*
